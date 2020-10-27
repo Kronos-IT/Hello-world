@@ -1,1 +1,1 @@
-Project description
+blog_django
